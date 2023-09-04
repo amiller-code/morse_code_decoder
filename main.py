@@ -1,7 +1,3 @@
-# Morse Code Translator
-# 2023-07-15
-# DegaBoo
-
 MORSE_DICTIONARY = {
     "0": "-----",
     "1": ".----",
